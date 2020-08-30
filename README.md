@@ -1,24 +1,10 @@
-# README
+# Repositório de Exemplo - tutorial RAILS
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+[![Build Status](https://travis-ci.com/vascmig/exemplo-rails-6.svg?branch=master)](https://travis-ci.com/vascmig/exemplo-rails-6)
 
-Things you may want to cover:
+[![Maintainability](https://api.codeclimate.com/v1/badges/0cbdfb89205ea4f1f1e8/maintainability)](https://codeclimate.com/github/vascmig/exemplo-rails-6/maintainability)
 
-* Ruby version
+[![Coverage Status](https://coveralls.io/repos/github/vascmig/exemplo-rails-6/badge.svg?branch=master)](https://coveralls.io/github/vascmig/exemplo-rails-6?branch=master)
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Heroku: https://exemplo-rails-6.herokuapp.com
