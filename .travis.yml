@@ -19,6 +19,6 @@ script:
  - bundle exec rspec spec
  - bundle exec cucumber
 
- branches:
-    only:
-    - master
+branches:
+  only:
+  - master
